@@ -90,5 +90,6 @@ We may update this Privacy Policy from time to time. Any changes will be communi
 If you have any questions or requests regarding your privacy, please contact:
 
 **Hung Hoang**
+Email: quochung0329@gmail.com
 App: Phong Thuy AI  
 Package: com.hunghoang.phong_thuy_ai
